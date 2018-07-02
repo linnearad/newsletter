@@ -141,6 +141,7 @@ return [
                 'type' => 'text',
                 'cols' => 40,
                 'rows' => 10,
+                'default' => '',
             ],
         ],
         'csv_filename' => [
